@@ -1,0 +1,1 @@
+A chat client that speaks the F-chat protocol, designed for F-list.net's role-playing chat service. Written in Tcl, it uses Tk, and is designed to be functional on Windows, Mac OS X and Linux.
